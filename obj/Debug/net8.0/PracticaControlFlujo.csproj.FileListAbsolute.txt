@@ -1,0 +1,15 @@
+C:\Users\9nue\Desktop\PracticaControlFlujo\bin\Debug\net8.0\PracticaControlFlujo.exe
+C:\Users\9nue\Desktop\PracticaControlFlujo\bin\Debug\net8.0\PracticaControlFlujo.deps.json
+C:\Users\9nue\Desktop\PracticaControlFlujo\bin\Debug\net8.0\PracticaControlFlujo.runtimeconfig.json
+C:\Users\9nue\Desktop\PracticaControlFlujo\bin\Debug\net8.0\PracticaControlFlujo.dll
+C:\Users\9nue\Desktop\PracticaControlFlujo\bin\Debug\net8.0\PracticaControlFlujo.pdb
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\PracticaControlFlujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\PracticaControlFlujo.AssemblyInfoInputs.cache
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\PracticaControlFlujo.AssemblyInfo.cs
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\PracticaControlFlujo.csproj.CoreCompileInputs.cache
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\PracticaControlFlujo.sourcelink.json
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\PracticaControlFlujo.dll
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\refint\PracticaControlFlujo.dll
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\PracticaControlFlujo.pdb
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\PracticaControlFlujo.genruntimeconfig.cache
+C:\Users\9nue\Desktop\PracticaControlFlujo\obj\Debug\net8.0\ref\PracticaControlFlujo.dll
