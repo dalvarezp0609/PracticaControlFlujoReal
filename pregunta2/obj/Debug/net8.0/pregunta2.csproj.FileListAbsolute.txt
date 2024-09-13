@@ -1,0 +1,15 @@
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\bin\Debug\net8.0\pregunta2.exe
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\bin\Debug\net8.0\pregunta2.deps.json
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\bin\Debug\net8.0\pregunta2.runtimeconfig.json
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\bin\Debug\net8.0\pregunta2.dll
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\bin\Debug\net8.0\pregunta2.pdb
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\pregunta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\pregunta2.AssemblyInfoInputs.cache
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\pregunta2.AssemblyInfo.cs
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\pregunta2.csproj.CoreCompileInputs.cache
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\pregunta2.sourcelink.json
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\pregunta2.dll
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\refint\pregunta2.dll
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\pregunta2.pdb
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\pregunta2.genruntimeconfig.cache
+C:\Users\9nue\Desktop\PracticaControlFlujo\pregunta2\obj\Debug\net8.0\ref\pregunta2.dll
